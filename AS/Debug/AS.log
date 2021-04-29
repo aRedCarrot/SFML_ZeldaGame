@@ -1,0 +1,13 @@
+﻿cl : command line warning D9035: option 'Gm' has been deprecated and will be removed in a future release
+  Position.cpp
+  Monstre.cpp
+  Animation.cpp
+  Heros.cpp
+  CPersonnage.cpp
+  CObjet.cpp
+  Carte.cpp
+  Generating Code...
+cl : command line warning D9035: option 'Gm' has been deprecated and will be removed in a future release
+  main.cpp
+Carte.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/SAFESEH' specification
+  AS.vcxproj -> D:\USB_BACKUP\Lionel\Programation Session 2\Zelda\AS2015\Debug\AS.exe
